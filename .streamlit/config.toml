@@ -1,0 +1,7 @@
+[browser]
+gatherUsageStats = false
+showEmailPrompt = false
+
+[server]
+enableCORS = true
+enableXsrfProtection = true
