@@ -1,0 +1,13 @@
+feedback_id,submitted_date,product,rating,category,comment
+FB-001,2026-01-08,Atlas Notes,5,usability,"The quick-add button makes capturing an idea feel effortless."
+FB-002,2026-01-12,Beacon Boards,3,performance,"The board loads slowly when a workspace has many cards."
+FB-003,2026-01-19,Atlas Notes,4,features,"A compact tag picker would make organizing notes easier."
+FB-004,2026-02-03,Cloudberry Calendar,2,reliability,"The reminder preview disappeared once after changing time zones."
+FB-005,2026-02-11,Beacon Boards,5,usability,"Dragging a card between columns is clear and predictable."
+FB-006,2026-02-18,Atlas Notes,3,performance,"Search is useful, but results take a moment to appear."
+FB-007,2026-03-02,Cloudberry Calendar,4,features,"I would like a shared calendar color palette for teams."
+FB-008,2026-03-10,Beacon Boards,2,reliability,"One archived card returned to the active board after a refresh."
+FB-009,2026-03-17,Atlas Notes,5,usability,"The keyboard shortcuts are easy to discover and remember."
+FB-010,2026-04-01,Cloudberry Calendar,3,performance,"The monthly view is smooth, but the agenda view is slower."
+FB-011,2026-04-09,Beacon Boards,4,features,"A board template gallery would help new teams get started."
+FB-012,2026-04-21,Cloudberry Calendar,5,usability,"The week view gives me exactly the right amount of context."

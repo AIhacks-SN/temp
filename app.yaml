@@ -1,0 +1,13 @@
+apiVersion: apps.internal/v1alpha1
+kind: App
+metadata:
+  slug: product-feedback
+  title: Product feedback explorer
+  description: Explore synthetic feedback by product and date.
+spec:
+  framework: streamlit
+  entrypoint: app.py
+  python: "3.12"
+  resources: small
+  env:
+    DATA_MODE: fixtures
